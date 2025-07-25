@@ -1,0 +1,6 @@
+smlua_text_utils_course_acts_replace(COURSE_BOB, (" 1 MOMOI VILLAGE"),	("INSIDE MOMOI'S HALO"),	("MOMOI'S LOCKED PYROXENE"),	("MOMOI'S 8 RED COINS"),	("FIND THE 9 HIDDEN SMUG MOMOIS"),	("BALLSTOMPY MOMOI"),	("MOMOI'S NINTENDO SWITCH"))
+smlua_text_utils_course_acts_replace(COURSE_JRB, (" 1 IZUNA'S TRAINING GROUND"),	("AT THE TOP OF THE PALACE"),	("NINJAS VS GOZ"),	("PALACE'S 8 RED COINS"),	("PERORO'S MISSING CHILDREN"),	("FIND IZUNA'S 9 GOLD MEDALS"),	("CHAIN CHOMP'S PYROXENE STASH"))
+smlua_text_utils_course_acts_replace(COURSE_LLL, (" 1 GDD NIGHTMARE EDITION"),	("SAVE THE PLUSHIES"),	("BIG BULLY'S CRT TV"),	("8 RED COINS THROUGH GDD HELL"),	("MIDORI'S 5 BURNT TABLETS"),	("---"),	("---"))
+smlua_text_utils_course_acts_replace(COURSE_CCM, "GDD GDD Test Playground", "Arona...", "Momoi 64", "SEX", "--", "--", "--")
+smlua_text_utils_course_acts_replace(COURSE_WF, "SRT Kousagi Park", "Enter the Trash", "The Hot Springs Department's Discovery", "Leap of Faith", "Red Coins in Kousagi Park", "Find Seia Her Voice", "Escape the Trash")
+smlua_text_utils_course_acts_replace(COURSE_SL, "GDD Game Development Department", "Momoi the Quick!", "Among the Plushies", "Inventory Check", "8 Red Coins in the Club Room", "Inside the Locker (VC)", "Yuzu's Collectathon")

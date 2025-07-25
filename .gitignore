@@ -1,0 +1,3 @@
+# Ignore subfolders but not files
+**/actors/*/
+**/levels/*/
